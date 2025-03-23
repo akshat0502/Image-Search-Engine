@@ -2,7 +2,7 @@
   <a href="https://akshat0502.github.io/Image-Search-Engine/">Image Search Engine</a>
 </h1>
 
-An <b>Image Search Engine</b> is a dynamic web application that allows users to <b>search for images</b> by entering keywords. Built using <b>HTML, CSS</b>, and <b>JavaScript,</b> this project utilizes the <b> Unsplash API</b> to fetch and display high-quality images dynamically based on user input.
+An <b>Image Search Engine</b> is a dynamic web application that allows users to <b>search for images</b> by <b>entering keywords</b>. Built using <b>HTML, CSS</b>, and <b>JavaScript,</b> this project utilizes the <b> Unsplash API</b> to fetch and display high-quality images dynamically based on user input.
 
 <h2>Key Components:</h2>
 <ol>
