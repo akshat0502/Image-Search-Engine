@@ -19,7 +19,7 @@ An <b>Image Search Engine</b> is a dynamic web application that allows users to 
       <li>Adds hover effects, spacing, and animations for a polished look.</li>
     </ul>
   </li>
-  <li>JavaScript:
+  <li><b>JavaScript:</b>
     <ul>
       <li>Handles interaction with the <b>Unsplash API</b> to fetch image data based on user queries.</li>
     <li>Dynamically updates the gallery with search results.</li>
