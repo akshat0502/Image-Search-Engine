@@ -6,7 +6,7 @@ An <b>Image Search Engine</b> is a dynamic web application that allows users to 
 
 <h2>Key Components:</h2>
 <ol>
-  <li>HTML:
+  <li><b>HTML:</b>
     <ul>
       <li>Structures the web page with elements like a search bar, a button to trigger the search, and a gallery to display the fetched images.</li>
       <li>Includes placeholders or a loading indicator for better user experience.</li>
