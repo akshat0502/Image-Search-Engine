@@ -12,7 +12,7 @@ An <b>Image Search Engine</b> is a dynamic web application that allows users to 
       <li>Includes placeholders or a loading indicator for better user experience.</li>
     </ul>
   </li>
-  <li><b>CSS:</b>
+  <li><b>CSS (style.css) : </b>
     <ul>
       <li>Styles the interface for an attractive and responsive design.</li>
       <li>Ensures that images are displayed in a grid or gallery format for a clean layout.</li>
